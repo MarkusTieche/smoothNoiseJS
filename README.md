@@ -1,4 +1,4 @@
-![div](http://www.phaser.io/images/phaser2-github.png)
+![div](https://raw.githubusercontent.com/inkfood/smoothNoise/master/images/noise_subDivision_1.png)
 
 # smoothNoise.js
 
@@ -7,5 +7,5 @@ By markusT / inkfood, [inkfood](http://www.inkfood.com)
 
 * View the [Official Website](http://www.inkfood.com)
 
-![div](http://phaser.io/images/div4.png)
+![div](https://raw.githubusercontent.com/inkfood/smoothNoise/master/images/logo_inkfood_final_colored.png)
 
