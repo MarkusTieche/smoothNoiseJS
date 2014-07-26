@@ -8,8 +8,8 @@ Init Noise
 
 set noise values(optional) 
 
-`noise.frequency = 10
-noise.subdivision = 10`
+`* noise.frequency = 10
+* noise.subdivision = 10`
 
 
 By markusT, [inkfood.com](http://www.inkfood.com)
