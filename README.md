@@ -6,10 +6,21 @@ Init Noise
 
 `var noise = new smoothNoise();`
 
-set noise values(optional) 
+set noise values(optional), these are the basic values 
 
-`* noise.frequency = 10
-* noise.subdivision = 10`
+`noise.frequency = 10`
+`noise.subDivision = 10`
+`noise.highLimit = 300`
+`noise.lowLimit = 500`
+`noise.lastPos = {x:0,y:0}`
+`noise.points = []`
+`noise.width = window.innerWidth`
+
+add noise to the full width with
+`noise.fill()`
+
+add one slope at `noise.lastPos`
+`noise.add()`
 
 
 By markusT, [inkfood.com](http://www.inkfood.com)
