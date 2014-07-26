@@ -6,6 +6,11 @@ Init Noise
 
 `var noise = new smoothNoise();`
 
+set noise values(optional) 
+
+`noise.frequency = 10
+noise.subdivision = 10`
+
 
 By markusT, [inkfood.com](http://www.inkfood.com)
 
