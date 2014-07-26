@@ -2,8 +2,12 @@
 
 # smoothNoise.js
 
+Init Noise
 
-By markusT / inkfood, [inkfood](http://www.inkfood.com)
+`var noise = new smoothNoise();`
+
+
+By markusT, [inkfood.com](http://www.inkfood.com)
 
 * View the [Official Website](http://www.inkfood.com)
 
