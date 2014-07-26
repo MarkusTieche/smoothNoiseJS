@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Smooth noise demo</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/main.js"></script>
+    <script src="js/smoothNoise.js"></script>
+    <script src="js/GUI.js"></script>
+</head>
+<body onload="init()">
+    
+    <div id="container"></div>
+    
+     <div id="options" class="open">
+        <div id="btns">
+        <button id="btn_menu" type="button" role="button" aria-label="Toggle Navigation"></button>
+        </div>
+        <div style="text-align:center;">
+        <h3>noise</h3>
+            <p>frequency:  50</p>
+            <input id="frequency" type="range"  min="1" max="50" value="50" onchange="slide(event)"/>
+            <p>subDivision:  25</p>
+            <input id="subDivision" type="range"  min="1" max="25" value="25" onchange="slide(event)"/>
+
+        </div>
+    </div>
+</body>
+</html>
