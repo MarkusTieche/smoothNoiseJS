@@ -2,6 +2,9 @@
 
 # smoothNoise.js
 
+Includes two examples
+
+
 Init Noise
 
 `var noise = new smoothNoise();`
@@ -19,7 +22,7 @@ set noise values(optional), these are the basic values
 add noise to the full width with
 `noise.fill()`
 
-add one slope at `noise.lastPos`
+add one slope at `noise.lastPos` with
 `noise.add()`
 
 
