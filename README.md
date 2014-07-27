@@ -30,5 +30,5 @@ By markusT, [inkfood.com](http://www.inkfood.com)
 
 * View the [Official Website](http://www.inkfood.com)
 
-![div](https://raw.githubusercontent.com/inkfood/smoothNoise/master/images/logo_inkfood_final_colored.png)
+![div](http://i.imgur.com/SNEFHAT.png)
 
