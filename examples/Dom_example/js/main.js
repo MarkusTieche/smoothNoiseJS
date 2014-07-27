@@ -9,7 +9,7 @@ function init()
 {
     initGUI();
     
-    noise = new perlinNoise(); //INIT NOISE
+    noise = new smoothNoise(); //INIT NOISE
     noise.points = def;
     noise.width = window.innerWidth;
     h =  (window.innerHeight/2)-400; //CENTERS THE LINE

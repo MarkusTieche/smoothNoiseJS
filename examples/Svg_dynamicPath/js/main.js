@@ -5,7 +5,7 @@ var noise;
 function init()
 {
     
-     noise = new perlinNoise(); //INIT NOISE
+     noise = new smoothNoise(); //INIT NOISE
     noise.width = window.innerWidth +200;
         
     
