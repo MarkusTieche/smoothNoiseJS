@@ -29,6 +29,3 @@ add one slope at `noise.lastPos` with
 By markusT
 
 
-![div](http://i.imgur.com/SNEFHAT.png)
-
-
