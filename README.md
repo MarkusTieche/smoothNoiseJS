@@ -26,9 +26,8 @@ add one slope at `noise.lastPos` with
 `noise.add()`
 
 
-By markusT, [inkfood.com](http://www.inkfood.com)
+By markusT
 
-* View the [Official documentation](http://www.inkfood.com/smoothnoise/)
 
 ![div](http://i.imgur.com/SNEFHAT.png)
 
