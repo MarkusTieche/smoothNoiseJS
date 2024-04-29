@@ -26,10 +26,7 @@ add one slope at `noise.lastPos` with
 `noise.add()`
 
 
-By markusT, [inkfood.com](http://www.inkfood.com)
-
-* View the [Official Website](http://www.inkfood.com)
-
-![div](http://i.imgur.com/SNEFHAT.png)
+[Dom example](https://markustieche.github.io/smoothNoiseJS/examples/Dom_example/)
+[SVG example](https://markustieche.github.io/smoothNoiseJS/examples/Svg_dynamicPath/)
 
 
